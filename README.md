@@ -108,4 +108,3 @@ All generated code was reviewed, tested, modified, and fully understood before b
 - Unused or outdated code has been removed  
 - README includes setup instructions and project explanation  
 
-Ensure that your mentor has access to the repository.
